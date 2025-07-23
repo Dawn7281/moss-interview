@@ -47,7 +47,7 @@ MOSS 多模态智能模拟面试评测系统 是一款专为高校学生设计�
 该项目部署在 https://www.moss-interviewer.website/
 
 可通过下面的账号密码进行测试
->- 账号：MOSS
+>- 账号：Moss
 >- 密码：123456
 
 ## 四、运行项目
