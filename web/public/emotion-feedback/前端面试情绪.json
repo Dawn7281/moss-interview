@@ -1,0 +1,1562 @@
+[
+  {
+    "frame": 0,
+    "time_sec": 0.0,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.22,
+      "happy": 0.19,
+      "sad": 0.22,
+      "surprise": 0.01,
+      "neutral": 0.33
+    }
+  },
+  {
+    "frame": 45,
+    "time_sec": 1.8750027218290692,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.23,
+      "happy": 0.04,
+      "sad": 0.23,
+      "surprise": 0.01,
+      "neutral": 0.46
+    }
+  },
+  {
+    "frame": 90,
+    "time_sec": 3.7500054436581385,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.11,
+      "happy": 0.08,
+      "sad": 0.17,
+      "surprise": 0.0,
+      "neutral": 0.63
+    }
+  },
+  {
+    "frame": 135,
+    "time_sec": 5.625008165487207,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.13,
+      "happy": 0.05,
+      "sad": 0.12,
+      "surprise": 0.0,
+      "neutral": 0.67
+    }
+  },
+  {
+    "frame": 180,
+    "time_sec": 7.500010887316277,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.01,
+      "fear": 0.06,
+      "happy": 0.16,
+      "sad": 0.11,
+      "surprise": 0.0,
+      "neutral": 0.6
+    }
+  },
+  {
+    "frame": 225,
+    "time_sec": 9.375013609145347,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.02,
+      "sad": 0.11,
+      "surprise": 0.01,
+      "neutral": 0.73
+    }
+  },
+  {
+    "frame": 270,
+    "time_sec": 11.250016330974415,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.1,
+      "happy": 0.1,
+      "sad": 0.11,
+      "surprise": 0.0,
+      "neutral": 0.64
+    }
+  },
+  {
+    "frame": 315,
+    "time_sec": 13.125019052803484,
+    "emotions": {
+      "angry": 0.18,
+      "disgust": 0.0,
+      "fear": 0.11,
+      "happy": 0.21,
+      "sad": 0.11,
+      "surprise": 0.0,
+      "neutral": 0.38
+    }
+  },
+  {
+    "frame": 360,
+    "time_sec": 15.000021774632554,
+    "emotions": {
+      "angry": 0.35,
+      "disgust": 0.01,
+      "fear": 0.08,
+      "happy": 0.09,
+      "sad": 0.14,
+      "surprise": 0.0,
+      "neutral": 0.33
+    }
+  },
+  {
+    "frame": 405,
+    "time_sec": 16.875024496461624,
+    "emotions": {
+      "angry": 0.37,
+      "disgust": 0.01,
+      "fear": 0.13,
+      "happy": 0.03,
+      "sad": 0.16,
+      "surprise": 0.01,
+      "neutral": 0.29
+    }
+  },
+  {
+    "frame": 450,
+    "time_sec": 18.750027218290693,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.06,
+      "sad": 0.08,
+      "surprise": 0.0,
+      "neutral": 0.78
+    }
+  },
+  {
+    "frame": 495,
+    "time_sec": 20.62502994011976,
+    "emotions": {
+      "angry": 0.07,
+      "disgust": 0.0,
+      "fear": 0.04,
+      "happy": 0.16,
+      "sad": 0.12,
+      "surprise": 0.0,
+      "neutral": 0.61
+    }
+  },
+  {
+    "frame": 540,
+    "time_sec": 22.50003266194883,
+    "emotions": {
+      "angry": 0.14,
+      "disgust": 0.0,
+      "fear": 0.28,
+      "happy": 0.05,
+      "sad": 0.14,
+      "surprise": 0.06,
+      "neutral": 0.34
+    }
+  },
+  {
+    "frame": 585,
+    "time_sec": 24.3750353837779,
+    "emotions": {
+      "angry": 0.12,
+      "disgust": 0.0,
+      "fear": 0.15,
+      "happy": 0.03,
+      "sad": 0.17,
+      "surprise": 0.0,
+      "neutral": 0.53
+    }
+  },
+  {
+    "frame": 630,
+    "time_sec": 26.25003810560697,
+    "emotions": {
+      "angry": 0.09,
+      "disgust": 0.0,
+      "fear": 0.07,
+      "happy": 0.1,
+      "sad": 0.13,
+      "surprise": 0.0,
+      "neutral": 0.6
+    }
+  },
+  {
+    "frame": 675,
+    "time_sec": 28.125040827436038,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.08,
+      "happy": 0.02,
+      "sad": 0.08,
+      "surprise": 0.0,
+      "neutral": 0.78
+    }
+  },
+  {
+    "frame": 720,
+    "time_sec": 30.000043549265108,
+    "emotions": {
+      "angry": 0.11,
+      "disgust": 0.01,
+      "fear": 0.17,
+      "happy": 0.3,
+      "sad": 0.13,
+      "surprise": 0.01,
+      "neutral": 0.27
+    }
+  },
+  {
+    "frame": 765,
+    "time_sec": 31.875046271094178,
+    "emotions": {
+      "angry": 0.13,
+      "disgust": 0.01,
+      "fear": 0.11,
+      "happy": 0.04,
+      "sad": 0.14,
+      "surprise": 0.0,
+      "neutral": 0.59
+    }
+  },
+  {
+    "frame": 810,
+    "time_sec": 33.75004899292325,
+    "emotions": {
+      "angry": 0.1,
+      "disgust": 0.01,
+      "fear": 0.06,
+      "happy": 0.03,
+      "sad": 0.15,
+      "surprise": 0.0,
+      "neutral": 0.65
+    }
+  },
+  {
+    "frame": 855,
+    "time_sec": 35.62505171475232,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.09,
+      "sad": 0.06,
+      "surprise": 0.0,
+      "neutral": 0.75
+    }
+  },
+  {
+    "frame": 900,
+    "time_sec": 37.50005443658139,
+    "emotions": {
+      "angry": 0.16,
+      "disgust": 0.0,
+      "fear": 0.16,
+      "happy": 0.04,
+      "sad": 0.16,
+      "surprise": 0.01,
+      "neutral": 0.47
+    }
+  },
+  {
+    "frame": 945,
+    "time_sec": 39.375057158410456,
+    "emotions": {
+      "angry": 0.13,
+      "disgust": 0.0,
+      "fear": 0.19,
+      "happy": 0.12,
+      "sad": 0.19,
+      "surprise": 0.01,
+      "neutral": 0.36
+    }
+  },
+  {
+    "frame": 990,
+    "time_sec": 41.25005988023952,
+    "emotions": {
+      "angry": 0.08,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.4,
+      "sad": 0.05,
+      "surprise": 0.0,
+      "neutral": 0.37
+    }
+  },
+  {
+    "frame": 1035,
+    "time_sec": 43.12506260206859,
+    "emotions": {
+      "angry": 0.14,
+      "disgust": 0.0,
+      "fear": 0.17,
+      "happy": 0.13,
+      "sad": 0.12,
+      "surprise": 0.01,
+      "neutral": 0.41
+    }
+  },
+  {
+    "frame": 1080,
+    "time_sec": 45.00006532389766,
+    "emotions": {
+      "angry": 0.25,
+      "disgust": 0.0,
+      "fear": 0.3,
+      "happy": 0.03,
+      "sad": 0.09,
+      "surprise": 0.08,
+      "neutral": 0.25
+    }
+  },
+  {
+    "frame": 1125,
+    "time_sec": 46.87506804572673,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.09,
+      "sad": 0.08,
+      "surprise": 0.01,
+      "neutral": 0.67
+    }
+  },
+  {
+    "frame": 1170,
+    "time_sec": 48.7500707675558,
+    "emotions": {
+      "angry": 0.2,
+      "disgust": 0.0,
+      "fear": 0.18,
+      "happy": 0.04,
+      "sad": 0.11,
+      "surprise": 0.02,
+      "neutral": 0.45
+    }
+  },
+  {
+    "frame": 1215,
+    "time_sec": 50.62507348938487,
+    "emotions": {
+      "angry": 0.17,
+      "disgust": 0.0,
+      "fear": 0.06,
+      "happy": 0.09,
+      "sad": 0.07,
+      "surprise": 0.01,
+      "neutral": 0.59
+    }
+  },
+  {
+    "frame": 1260,
+    "time_sec": 52.50007621121394,
+    "emotions": {
+      "angry": 0.03,
+      "disgust": 0.0,
+      "fear": 0.03,
+      "happy": 0.12,
+      "sad": 0.06,
+      "surprise": 0.0,
+      "neutral": 0.76
+    }
+  },
+  {
+    "frame": 1305,
+    "time_sec": 54.37507893304301,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.07,
+      "happy": 0.03,
+      "sad": 0.1,
+      "surprise": 0.0,
+      "neutral": 0.73
+    }
+  },
+  {
+    "frame": 1350,
+    "time_sec": 56.250081654872076,
+    "emotions": {
+      "angry": 0.08,
+      "disgust": 0.0,
+      "fear": 0.08,
+      "happy": 0.01,
+      "sad": 0.06,
+      "surprise": 0.01,
+      "neutral": 0.76
+    }
+  },
+  {
+    "frame": 1395,
+    "time_sec": 58.125084376701146,
+    "emotions": {
+      "angry": 0.28,
+      "disgust": 0.01,
+      "fear": 0.21,
+      "happy": 0.09,
+      "sad": 0.1,
+      "surprise": 0.04,
+      "neutral": 0.28
+    }
+  },
+  {
+    "frame": 1440,
+    "time_sec": 60.000087098530216,
+    "emotions": {
+      "angry": 0.11,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.05,
+      "sad": 0.16,
+      "surprise": 0.0,
+      "neutral": 0.59
+    }
+  },
+  {
+    "frame": 1485,
+    "time_sec": 61.875089820359285,
+    "emotions": {
+      "angry": 0.09,
+      "disgust": 0.01,
+      "fear": 0.07,
+      "happy": 0.15,
+      "sad": 0.08,
+      "surprise": 0.0,
+      "neutral": 0.6
+    }
+  },
+  {
+    "frame": 1530,
+    "time_sec": 63.750092542188355,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.01,
+      "sad": 0.05,
+      "surprise": 0.01,
+      "neutral": 0.83
+    }
+  },
+  {
+    "frame": 1575,
+    "time_sec": 65.62509526401742,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.14,
+      "happy": 0.13,
+      "sad": 0.13,
+      "surprise": 0.01,
+      "neutral": 0.56
+    }
+  },
+  {
+    "frame": 1620,
+    "time_sec": 67.5000979858465,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.12,
+      "happy": 0.07,
+      "sad": 0.1,
+      "surprise": 0.0,
+      "neutral": 0.69
+    }
+  },
+  {
+    "frame": 1665,
+    "time_sec": 69.37510070767556,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.03,
+      "happy": 0.01,
+      "sad": 0.07,
+      "surprise": 0.0,
+      "neutral": 0.88
+    }
+  },
+  {
+    "frame": 1710,
+    "time_sec": 71.25010342950463,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.03,
+      "sad": 0.25,
+      "surprise": 0.01,
+      "neutral": 0.6
+    }
+  },
+  {
+    "frame": 1755,
+    "time_sec": 73.1251061513337,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.04,
+      "happy": 0.03,
+      "sad": 0.08,
+      "surprise": 0.0,
+      "neutral": 0.81
+    }
+  },
+  {
+    "frame": 1800,
+    "time_sec": 75.00010887316277,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.1,
+      "happy": 0.02,
+      "sad": 0.21,
+      "surprise": 0.0,
+      "neutral": 0.62
+    }
+  },
+  {
+    "frame": 1845,
+    "time_sec": 76.87511159499184,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.15,
+      "happy": 0.03,
+      "sad": 0.14,
+      "surprise": 0.02,
+      "neutral": 0.6
+    }
+  },
+  {
+    "frame": 1890,
+    "time_sec": 78.75011431682091,
+    "emotions": {
+      "angry": 0.15,
+      "disgust": 0.0,
+      "fear": 0.19,
+      "happy": 0.04,
+      "sad": 0.12,
+      "surprise": 0.07,
+      "neutral": 0.43
+    }
+  },
+  {
+    "frame": 1935,
+    "time_sec": 80.62511703864998,
+    "emotions": {
+      "angry": 0.03,
+      "disgust": 0.0,
+      "fear": 0.14,
+      "happy": 0.01,
+      "sad": 0.13,
+      "surprise": 0.01,
+      "neutral": 0.68
+    }
+  },
+  {
+    "frame": 1980,
+    "time_sec": 82.50011976047904,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.28,
+      "happy": 0.03,
+      "sad": 0.14,
+      "surprise": 0.16,
+      "neutral": 0.32
+    }
+  },
+  {
+    "frame": 2025,
+    "time_sec": 84.37512248230811,
+    "emotions": {
+      "angry": 0.12,
+      "disgust": 0.0,
+      "fear": 0.21,
+      "happy": 0.04,
+      "sad": 0.15,
+      "surprise": 0.05,
+      "neutral": 0.44
+    }
+  },
+  {
+    "frame": 2070,
+    "time_sec": 86.25012520413718,
+    "emotions": {
+      "angry": 0.23,
+      "disgust": 0.0,
+      "fear": 0.07,
+      "happy": 0.03,
+      "sad": 0.13,
+      "surprise": 0.02,
+      "neutral": 0.52
+    }
+  },
+  {
+    "frame": 2115,
+    "time_sec": 88.12512792596625,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.15,
+      "happy": 0.19,
+      "sad": 0.23,
+      "surprise": 0.0,
+      "neutral": 0.41
+    }
+  },
+  {
+    "frame": 2160,
+    "time_sec": 90.00013064779532,
+    "emotions": {
+      "angry": 0.08,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.05,
+      "sad": 0.2,
+      "surprise": 0.0,
+      "neutral": 0.58
+    }
+  },
+  {
+    "frame": 2205,
+    "time_sec": 91.8751333696244,
+    "emotions": {
+      "angry": 0.14,
+      "disgust": 0.01,
+      "fear": 0.1,
+      "happy": 0.09,
+      "sad": 0.22,
+      "surprise": 0.0,
+      "neutral": 0.45
+    }
+  },
+  {
+    "frame": 2250,
+    "time_sec": 93.75013609145346,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.02,
+      "fear": 0.08,
+      "happy": 0.03,
+      "sad": 0.14,
+      "surprise": 0.0,
+      "neutral": 0.67
+    }
+  },
+  {
+    "frame": 2295,
+    "time_sec": 95.62513881328253,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.25,
+      "happy": 0.15,
+      "sad": 0.23,
+      "surprise": 0.03,
+      "neutral": 0.29
+    }
+  },
+  {
+    "frame": 2340,
+    "time_sec": 97.5001415351116,
+    "emotions": {
+      "angry": 0.22,
+      "disgust": 0.0,
+      "fear": 0.23,
+      "happy": 0.1,
+      "sad": 0.14,
+      "surprise": 0.0,
+      "neutral": 0.31
+    }
+  },
+  {
+    "frame": 2385,
+    "time_sec": 99.37514425694067,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.06,
+      "happy": 0.16,
+      "sad": 0.11,
+      "surprise": 0.0,
+      "neutral": 0.66
+    }
+  },
+  {
+    "frame": 2430,
+    "time_sec": 101.25014697876973,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.04,
+      "happy": 0.06,
+      "sad": 0.06,
+      "surprise": 0.0,
+      "neutral": 0.82
+    }
+  },
+  {
+    "frame": 2475,
+    "time_sec": 103.12514970059881,
+    "emotions": {
+      "angry": 0.0,
+      "disgust": 0.0,
+      "fear": 0.03,
+      "happy": 0.01,
+      "sad": 0.09,
+      "surprise": 0.0,
+      "neutral": 0.87
+    }
+  },
+  {
+    "frame": 2520,
+    "time_sec": 105.00015242242787,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.19,
+      "happy": 0.1,
+      "sad": 0.4,
+      "surprise": 0.01,
+      "neutral": 0.25
+    }
+  },
+  {
+    "frame": 2565,
+    "time_sec": 106.87515514425694,
+    "emotions": {
+      "angry": 0.0,
+      "disgust": 0.0,
+      "fear": 0.02,
+      "happy": 0.01,
+      "sad": 0.08,
+      "surprise": 0.0,
+      "neutral": 0.89
+    }
+  },
+  {
+    "frame": 2610,
+    "time_sec": 108.75015786608601,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.16,
+      "happy": 0.01,
+      "sad": 0.25,
+      "surprise": 0.0,
+      "neutral": 0.56
+    }
+  },
+  {
+    "frame": 2655,
+    "time_sec": 110.62516058791508,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.11,
+      "happy": 0.07,
+      "sad": 0.13,
+      "surprise": 0.0,
+      "neutral": 0.62
+    }
+  },
+  {
+    "frame": 2700,
+    "time_sec": 112.50016330974415,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.03,
+      "happy": 0.0,
+      "sad": 0.3,
+      "surprise": 0.0,
+      "neutral": 0.65
+    }
+  },
+  {
+    "frame": 2745,
+    "time_sec": 114.37516603157322,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.13,
+      "happy": 0.02,
+      "sad": 0.27,
+      "surprise": 0.0,
+      "neutral": 0.55
+    }
+  },
+  {
+    "frame": 2790,
+    "time_sec": 116.25016875340229,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.03,
+      "fear": 0.27,
+      "happy": 0.07,
+      "sad": 0.27,
+      "surprise": 0.05,
+      "neutral": 0.26
+    }
+  },
+  {
+    "frame": 2835,
+    "time_sec": 118.12517147523135,
+    "emotions": {
+      "angry": 0.03,
+      "disgust": 0.01,
+      "fear": 0.12,
+      "happy": 0.24,
+      "sad": 0.23,
+      "surprise": 0.01,
+      "neutral": 0.37
+    }
+  },
+  {
+    "frame": 2880,
+    "time_sec": 120.00017419706043,
+    "emotions": {
+      "angry": 0.03,
+      "disgust": 0.0,
+      "fear": 0.06,
+      "happy": 0.03,
+      "sad": 0.35,
+      "surprise": 0.0,
+      "neutral": 0.51
+    }
+  },
+  {
+    "frame": 2925,
+    "time_sec": 121.8751769188895,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.01,
+      "fear": 0.17,
+      "happy": 0.01,
+      "sad": 0.32,
+      "surprise": 0.01,
+      "neutral": 0.47
+    }
+  },
+  {
+    "frame": 2970,
+    "time_sec": 123.75017964071857,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.15,
+      "happy": 0.05,
+      "sad": 0.17,
+      "surprise": 0.0,
+      "neutral": 0.57
+    }
+  },
+  {
+    "frame": 3015,
+    "time_sec": 125.62518236254763,
+    "emotions": {
+      "angry": 0.13,
+      "disgust": 0.0,
+      "fear": 0.36,
+      "happy": 0.06,
+      "sad": 0.18,
+      "surprise": 0.04,
+      "neutral": 0.22
+    }
+  },
+  {
+    "frame": 3060,
+    "time_sec": 127.50018508437671,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.02,
+      "fear": 0.25,
+      "happy": 0.04,
+      "sad": 0.26,
+      "surprise": 0.02,
+      "neutral": 0.36
+    }
+  },
+  {
+    "frame": 3105,
+    "time_sec": 129.3751878062058,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.02,
+      "happy": 0.04,
+      "sad": 0.08,
+      "surprise": 0.0,
+      "neutral": 0.85
+    }
+  },
+  {
+    "frame": 3150,
+    "time_sec": 131.25019052803484,
+    "emotions": {
+      "angry": 0.03,
+      "disgust": 0.01,
+      "fear": 0.16,
+      "happy": 0.02,
+      "sad": 0.35,
+      "surprise": 0.0,
+      "neutral": 0.43
+    }
+  },
+  {
+    "frame": 3195,
+    "time_sec": 133.1251932498639,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.08,
+      "happy": 0.15,
+      "sad": 0.21,
+      "surprise": 0.0,
+      "neutral": 0.5
+    }
+  },
+  {
+    "frame": 3240,
+    "time_sec": 135.000195971693,
+    "emotions": {
+      "angry": 0.08,
+      "disgust": 0.0,
+      "fear": 0.11,
+      "happy": 0.14,
+      "sad": 0.17,
+      "surprise": 0.0,
+      "neutral": 0.51
+    }
+  },
+  {
+    "frame": 3285,
+    "time_sec": 136.87519869352204,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.08,
+      "happy": 0.03,
+      "sad": 0.1,
+      "surprise": 0.01,
+      "neutral": 0.74
+    }
+  },
+  {
+    "frame": 3330,
+    "time_sec": 138.7502014153511,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.1,
+      "happy": 0.06,
+      "sad": 0.3,
+      "surprise": 0.0,
+      "neutral": 0.5
+    }
+  },
+  {
+    "frame": 3375,
+    "time_sec": 140.6252041371802,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.01,
+      "fear": 0.08,
+      "happy": 0.64,
+      "sad": 0.04,
+      "surprise": 0.0,
+      "neutral": 0.21
+    }
+  },
+  {
+    "frame": 3420,
+    "time_sec": 142.50020685900927,
+    "emotions": {
+      "angry": 0.11,
+      "disgust": 0.0,
+      "fear": 0.06,
+      "happy": 0.04,
+      "sad": 0.1,
+      "surprise": 0.01,
+      "neutral": 0.67
+    }
+  },
+  {
+    "frame": 3465,
+    "time_sec": 144.37520958083832,
+    "emotions": {
+      "angry": 0.07,
+      "disgust": 0.0,
+      "fear": 0.14,
+      "happy": 0.04,
+      "sad": 0.21,
+      "surprise": 0.0,
+      "neutral": 0.53
+    }
+  },
+  {
+    "frame": 3510,
+    "time_sec": 146.2502123026674,
+    "emotions": {
+      "angry": 0.07,
+      "disgust": 0.0,
+      "fear": 0.1,
+      "happy": 0.04,
+      "sad": 0.36,
+      "surprise": 0.0,
+      "neutral": 0.43
+    }
+  },
+  {
+    "frame": 3555,
+    "time_sec": 148.12521502449647,
+    "emotions": {
+      "angry": 0.19,
+      "disgust": 0.0,
+      "fear": 0.1,
+      "happy": 0.38,
+      "sad": 0.08,
+      "surprise": 0.01,
+      "neutral": 0.23
+    }
+  },
+  {
+    "frame": 3600,
+    "time_sec": 150.00021774632555,
+    "emotions": {
+      "angry": 0.08,
+      "disgust": 0.01,
+      "fear": 0.09,
+      "happy": 0.01,
+      "sad": 0.5,
+      "surprise": 0.0,
+      "neutral": 0.31
+    }
+  },
+  {
+    "frame": 3645,
+    "time_sec": 151.8752204681546,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.08,
+      "happy": 0.04,
+      "sad": 0.12,
+      "surprise": 0.02,
+      "neutral": 0.68
+    }
+  },
+  {
+    "frame": 3690,
+    "time_sec": 153.75022318998367,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.05,
+      "fear": 0.18,
+      "happy": 0.01,
+      "sad": 0.4,
+      "surprise": 0.0,
+      "neutral": 0.31
+    }
+  },
+  {
+    "frame": 3735,
+    "time_sec": 155.62522591181275,
+    "emotions": {
+      "angry": 0.11,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.15,
+      "sad": 0.1,
+      "surprise": 0.01,
+      "neutral": 0.56
+    }
+  },
+  {
+    "frame": 3780,
+    "time_sec": 157.50022863364183,
+    "emotions": {
+      "angry": 0.2,
+      "disgust": 0.0,
+      "fear": 0.2,
+      "happy": 0.04,
+      "sad": 0.17,
+      "surprise": 0.01,
+      "neutral": 0.39
+    }
+  },
+  {
+    "frame": 3825,
+    "time_sec": 159.37523135547087,
+    "emotions": {
+      "angry": 0.19,
+      "disgust": 0.0,
+      "fear": 0.08,
+      "happy": 0.3,
+      "sad": 0.1,
+      "surprise": 0.0,
+      "neutral": 0.33
+    }
+  },
+  {
+    "frame": 3870,
+    "time_sec": 161.25023407729995,
+    "emotions": {
+      "angry": 0.09,
+      "disgust": 0.0,
+      "fear": 0.14,
+      "happy": 0.18,
+      "sad": 0.14,
+      "surprise": 0.0,
+      "neutral": 0.43
+    }
+  },
+  {
+    "frame": 3915,
+    "time_sec": 163.12523679912903,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.0,
+      "fear": 0.12,
+      "happy": 0.38,
+      "sad": 0.15,
+      "surprise": 0.01,
+      "neutral": 0.32
+    }
+  },
+  {
+    "frame": 3960,
+    "time_sec": 165.00023952095808,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.0,
+      "fear": 0.11,
+      "happy": 0.0,
+      "sad": 0.31,
+      "surprise": 0.0,
+      "neutral": 0.57
+    }
+  },
+  {
+    "frame": 4005,
+    "time_sec": 166.87524224278715,
+    "emotions": {
+      "angry": 0.01,
+      "disgust": 0.01,
+      "fear": 0.07,
+      "happy": 0.04,
+      "sad": 0.32,
+      "surprise": 0.0,
+      "neutral": 0.55
+    }
+  },
+  {
+    "frame": 4050,
+    "time_sec": 168.75024496461623,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.17,
+      "happy": 0.08,
+      "sad": 0.12,
+      "surprise": 0.0,
+      "neutral": 0.56
+    }
+  },
+  {
+    "frame": 4095,
+    "time_sec": 170.6252476864453,
+    "emotions": {
+      "angry": 0.09,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.1,
+      "sad": 0.15,
+      "surprise": 0.0,
+      "neutral": 0.6
+    }
+  },
+  {
+    "frame": 4140,
+    "time_sec": 172.50025040827435,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.01,
+      "fear": 0.07,
+      "happy": 0.03,
+      "sad": 0.23,
+      "surprise": 0.0,
+      "neutral": 0.63
+    }
+  },
+  {
+    "frame": 4185,
+    "time_sec": 174.37525313010343,
+    "emotions": {
+      "angry": 0.17,
+      "disgust": 0.0,
+      "fear": 0.09,
+      "happy": 0.38,
+      "sad": 0.14,
+      "surprise": 0.01,
+      "neutral": 0.2
+    }
+  },
+  {
+    "frame": 4230,
+    "time_sec": 176.2502558519325,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.02,
+      "fear": 0.04,
+      "happy": 0.11,
+      "sad": 0.08,
+      "surprise": 0.0,
+      "neutral": 0.75
+    }
+  },
+  {
+    "frame": 4275,
+    "time_sec": 178.12525857376158,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.03,
+      "fear": 0.14,
+      "happy": 0.12,
+      "sad": 0.31,
+      "surprise": 0.0,
+      "neutral": 0.35
+    }
+  },
+  {
+    "frame": 4320,
+    "time_sec": 180.00026129559063,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.07,
+      "happy": 0.04,
+      "sad": 0.22,
+      "surprise": 0.01,
+      "neutral": 0.62
+    }
+  },
+  {
+    "frame": 4365,
+    "time_sec": 181.8752640174197,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.01,
+      "fear": 0.06,
+      "happy": 0.02,
+      "sad": 0.24,
+      "surprise": 0.0,
+      "neutral": 0.64
+    }
+  },
+  {
+    "frame": 4410,
+    "time_sec": 183.7502667392488,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.02,
+      "sad": 0.15,
+      "surprise": 0.0,
+      "neutral": 0.71
+    }
+  },
+  {
+    "frame": 4455,
+    "time_sec": 185.62526946107786,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.04,
+      "sad": 0.31,
+      "surprise": 0.0,
+      "neutral": 0.55
+    }
+  },
+  {
+    "frame": 4500,
+    "time_sec": 187.5002721829069,
+    "emotions": {
+      "angry": 0.08,
+      "disgust": 0.0,
+      "fear": 0.04,
+      "happy": 0.03,
+      "sad": 0.24,
+      "surprise": 0.0,
+      "neutral": 0.61
+    }
+  },
+  {
+    "frame": 4545,
+    "time_sec": 189.375274904736,
+    "emotions": {
+      "angry": 0.15,
+      "disgust": 0.01,
+      "fear": 0.09,
+      "happy": 0.25,
+      "sad": 0.19,
+      "surprise": 0.0,
+      "neutral": 0.32
+    }
+  },
+  {
+    "frame": 4590,
+    "time_sec": 191.25027762656507,
+    "emotions": {
+      "angry": 0.14,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.02,
+      "sad": 0.1,
+      "surprise": 0.05,
+      "neutral": 0.65
+    }
+  },
+  {
+    "frame": 4635,
+    "time_sec": 193.1252803483941,
+    "emotions": {
+      "angry": 0.07,
+      "disgust": 0.01,
+      "fear": 0.04,
+      "happy": 0.18,
+      "sad": 0.15,
+      "surprise": 0.0,
+      "neutral": 0.55
+    }
+  },
+  {
+    "frame": 4680,
+    "time_sec": 195.0002830702232,
+    "emotions": {
+      "angry": 0.17,
+      "disgust": 0.04,
+      "fear": 0.19,
+      "happy": 0.06,
+      "sad": 0.26,
+      "surprise": 0.03,
+      "neutral": 0.25
+    }
+  },
+  {
+    "frame": 4725,
+    "time_sec": 196.87528579205227,
+    "emotions": {
+      "angry": 0.11,
+      "disgust": 0.01,
+      "fear": 0.06,
+      "happy": 0.05,
+      "sad": 0.26,
+      "surprise": 0.0,
+      "neutral": 0.51
+    }
+  },
+  {
+    "frame": 4770,
+    "time_sec": 198.75028851388134,
+    "emotions": {
+      "angry": 0.12,
+      "disgust": 0.02,
+      "fear": 0.05,
+      "happy": 0.11,
+      "sad": 0.22,
+      "surprise": 0.0,
+      "neutral": 0.46
+    }
+  },
+  {
+    "frame": 4815,
+    "time_sec": 200.6252912357104,
+    "emotions": {
+      "angry": 0.11,
+      "disgust": 0.01,
+      "fear": 0.08,
+      "happy": 0.03,
+      "sad": 0.32,
+      "surprise": 0.01,
+      "neutral": 0.43
+    }
+  },
+  {
+    "frame": 4860,
+    "time_sec": 202.50029395753947,
+    "emotions": {
+      "angry": 0.29,
+      "disgust": 0.01,
+      "fear": 0.17,
+      "happy": 0.07,
+      "sad": 0.17,
+      "surprise": 0.02,
+      "neutral": 0.28
+    }
+  },
+  {
+    "frame": 4905,
+    "time_sec": 204.37529667936855,
+    "emotions": {
+      "angry": 0.09,
+      "disgust": 0.0,
+      "fear": 0.11,
+      "happy": 0.06,
+      "sad": 0.35,
+      "surprise": 0.01,
+      "neutral": 0.38
+    }
+  },
+  {
+    "frame": 4950,
+    "time_sec": 206.25029940119762,
+    "emotions": {
+      "angry": 0.07,
+      "disgust": 0.0,
+      "fear": 0.05,
+      "happy": 0.02,
+      "sad": 0.26,
+      "surprise": 0.0,
+      "neutral": 0.6
+    }
+  },
+  {
+    "frame": 4995,
+    "time_sec": 208.12530212302667,
+    "emotions": {
+      "angry": 0.07,
+      "disgust": 0.01,
+      "fear": 0.04,
+      "happy": 0.06,
+      "sad": 0.12,
+      "surprise": 0.0,
+      "neutral": 0.7
+    }
+  },
+  {
+    "frame": 5040,
+    "time_sec": 210.00030484485575,
+    "emotions": {
+      "angry": 0.24,
+      "disgust": 0.02,
+      "fear": 0.1,
+      "happy": 0.08,
+      "sad": 0.16,
+      "surprise": 0.0,
+      "neutral": 0.4
+    }
+  },
+  {
+    "frame": 5085,
+    "time_sec": 211.87530756668482,
+    "emotions": {
+      "angry": 0.14,
+      "disgust": 0.01,
+      "fear": 0.1,
+      "happy": 0.33,
+      "sad": 0.13,
+      "surprise": 0.0,
+      "neutral": 0.29
+    }
+  },
+  {
+    "frame": 5130,
+    "time_sec": 213.75031028851387,
+    "emotions": {
+      "angry": 0.06,
+      "disgust": 0.0,
+      "fear": 0.23,
+      "happy": 0.14,
+      "sad": 0.17,
+      "surprise": 0.22,
+      "neutral": 0.19
+    }
+  },
+  {
+    "frame": 5175,
+    "time_sec": 215.62531301034295,
+    "emotions": {
+      "angry": 0.07,
+      "disgust": 0.01,
+      "fear": 0.23,
+      "happy": 0.01,
+      "sad": 0.23,
+      "surprise": 0.02,
+      "neutral": 0.43
+    }
+  },
+  {
+    "frame": 5220,
+    "time_sec": 217.50031573217203,
+    "emotions": {
+      "angry": 0.11,
+      "disgust": 0.0,
+      "fear": 0.18,
+      "happy": 0.04,
+      "sad": 0.32,
+      "surprise": 0.0,
+      "neutral": 0.35
+    }
+  },
+  {
+    "frame": 5265,
+    "time_sec": 219.3753184540011,
+    "emotions": {
+      "angry": 0.04,
+      "disgust": 0.0,
+      "fear": 0.06,
+      "happy": 0.1,
+      "sad": 0.13,
+      "surprise": 0.03,
+      "neutral": 0.64
+    }
+  },
+  {
+    "frame": 5310,
+    "time_sec": 221.25032117583015,
+    "emotions": {
+      "angry": 0.05,
+      "disgust": 0.02,
+      "fear": 0.16,
+      "happy": 0.03,
+      "sad": 0.43,
+      "surprise": 0.0,
+      "neutral": 0.31
+    }
+  },
+  {
+    "frame": 5355,
+    "time_sec": 223.12532389765923,
+    "emotions": {
+      "angry": 0.02,
+      "disgust": 0.01,
+      "fear": 0.13,
+      "happy": 0.03,
+      "sad": 0.36,
+      "surprise": 0.0,
+      "neutral": 0.45
+    }
+  }
+]
